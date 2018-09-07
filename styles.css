@@ -1,0 +1,25 @@
+body {
+  background-color: #5c67c1;
+}
+.wrapper {
+  width: 100%;
+}
+.watch {
+  width: 40%;
+  margin: 0 auto;
+  height: 100px;
+  border: 8px solid #fff;
+}
+.inner-watch {
+  text-align: center;
+  padding-top: 30px;
+}
+.second,
+.minute,
+.hour {
+  display: inline;
+  padding-right: 5px;
+  color: #fff;
+  font-size: 2rem;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
